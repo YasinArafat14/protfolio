@@ -49,25 +49,36 @@ nav a{
 /* header Related style */
 .header{
     background-color: #fff8f3;
+    background-image: url(../Images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 .banner{
-    padding: 30px 30px 30px 30px;
+    padding: 30px 30px 0px 150px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 .banner-gretting{
-
+    font-size: 35px;
+    color: #474747;
+    margin-bottom: 0px;
 }
 .banner-title{
-
+    font-size: 65px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 20px;
+ 
 }
 .banner .profile-pic{
     width: 500px ;
     height: 550px;
 
 }
-.banner .profession-pic{
-    display: flex;
-    width: 50px;
-    margin-top: 0px;
+.banner-description{
+
+}
+.banner-content{
+    max-width: 500px;
 }
