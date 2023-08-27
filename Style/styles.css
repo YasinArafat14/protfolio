@@ -30,6 +30,7 @@ nav{
     color: #181818;
     font-size: 45px;
     font-weight: 800;
+    margin: 0px 100px;
 }
 nav > ul {
     display: flex;
@@ -54,7 +55,7 @@ nav a{
     background-position: bottom right;
 }
 .banner{
-    padding: 30px 30px 0px 20px;
+    padding: 30px 30px 0px 115px;
     display: flex;
     align-items: center;
     justify-content: space-between;
