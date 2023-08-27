@@ -24,6 +24,12 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 30px;
+}
+.nav-title{
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
 }
 nav > ul {
     display: flex;
@@ -39,4 +45,29 @@ nav a{
     text-decoration: none;
     cursor: pointer;
 
+}
+/* header Related style */
+.header{
+    background-color: #fff8f3;
+}
+.banner{
+    padding: 30px 30px 30px 30px;
+    display: flex;
+    align-items: center;
+}
+.banner-gretting{
+
+}
+.banner-title{
+
+}
+.banner .profile-pic{
+    width: 500px ;
+    height: 550px;
+
+}
+.banner .profession-pic{
+    display: flex;
+    width: 50px;
+    margin-top: 0px;
 }
