@@ -54,7 +54,7 @@ nav a{
     background-position: bottom right;
 }
 .banner{
-    padding: 30px 30px 0px 150px;
+    padding: 30px 30px 0px 20px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -76,6 +76,11 @@ nav a{
     height: 550px;
 
 }
+.banner .profession{
+    width: 80px;
+    height: 550px;
+    padding-right: 0px;
+} 
 .banner-description{
 
 }
