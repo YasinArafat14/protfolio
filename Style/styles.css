@@ -45,19 +45,22 @@ nav li {
 nav a{
     text-decoration: none;
     cursor: pointer;
-
 }
+
 /* header Related style */
 .header{
     background-color: #fff8f3;
     background-image: url(../Images/header_bg.png);
     background-repeat: no-repeat;
     background-position: bottom right;
+    
 }
+
 .banner{
     padding: 30px 30px 0px 115px;
     display: flex;
     align-items: center;
+
     justify-content: space-between;
 }
 .banner-gretting{
@@ -77,11 +80,7 @@ nav a{
     height: 550px;
 
 }
-.banner .profession{
-    width: 80px;
-    height: 550px;
-    padding-right: 0px;
-} 
+
 .banner-description{
 
 }
